@@ -30,7 +30,6 @@ Configure the database:
 
 Modify the config.py file to set up your database connection. Example for SQLite:
 python
-Copy code
 DATABASE_URI = 'sqlite:///jobs.db'
 Usage
 Run the scraper:
